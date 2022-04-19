@@ -1,0 +1,12 @@
+.form {
+    display: flex;
+    justify-content: space-between;
+}
+
+.label {
+    font-weight: 600
+}
+
+.input {
+    width: 90%;
+}
