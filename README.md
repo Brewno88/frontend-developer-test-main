@@ -1,7 +1,7 @@
 # Interview Exercise tasks:
 Create a todo list app that manages a list of todos. The user should be able to:
 - [x] Use React context to provide data and methods
-- [ ] Use React hooks and create a `custom hook` that manages the todo data.
+- [x] Use React hooks and create a `custom hook` that manages the todo data.
 - [x] Add new todos
 - [x] Toggle completeness of todos
 - [x] Delete individual todos
